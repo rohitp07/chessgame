@@ -1,0 +1,7 @@
+
+-----------------PREVIOUS GAME'S MOVES---------------------
+White's move - a2a3
+Black's move - b7b5
+White's move - a3a4
+Black's move - b5a4
+White's move - a1a4
